@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.cache/
+paged_attention_jit_cache/
+build/
+dist/
+*.so
+*.o
+muse.log
+prompt.txt
